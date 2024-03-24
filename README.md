@@ -18,7 +18,7 @@ Check out this Python application that was built with the goal of making it easi
 
 ## Usage
 
-To use Tech-Newsfeed, simply navigate to the application's URL () and start exploring the latest tech news. Users can sign up for an account to access additional features like saving favorite articles and participating in discussions.
+To use Tech-Newsfeed, simply navigate to the application's URL (https://tech-newsfeed-16b68ce39f8b.herokuapp.com/) and start exploring the latest tech news. Users can sign up for an account to access additional features like saving favorite articles and participating in discussions.
 
 Here is a view of the homepage where you can see the feed.
 
